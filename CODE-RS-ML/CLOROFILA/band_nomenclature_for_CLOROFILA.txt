@@ -1,0 +1,22 @@
+NDCI
+NDCI(682)
+A. Rrs(443)/Rrs(551)
+B. [(1/(Rrs670))–(1/(Rrs710))]* Rrs750
+C. Rrs(708)/Rrs(665)***Bastante citada
+D. [(1/(Rrs665))–(1/(Rrs708))]* Rrs753
+E. Rrs(748)/Rrs(667)
+F. Rrs(560)/Rrs(665)
+G. Rrs(709)/Rrs(620)
+H. (Rrs440–Rrs780)/(Rrs480–Rrs700)
+I. Rrs(489)
+J. Rrs(665)/Rrs(560)
+K. Rrs(620)/Rrs(709)
+L. (Rrs620/Rrs490)+(Rrs560/Rrs510)
+M. (Rrs700–Rrs781)/(Rrs662–Rrs781)
+N. Rrs(550)
+O. Rrs(708)/Rrs(678)***La más usada
+P. (Rrs708/Rrs678) + (Rrs643/Rrs628)
+Q. (Rrs705–Rrs754)/(Rrs665–Rrs754)
+R. Rrs753/(Rrs665-Rrs708)
+S. Rrs490/Rrs560
+T. Log10(Rrs490/Rrs560)
